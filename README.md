@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development , Java , DSA**
 
-- 📫 How to reach me **aaishashk.99@gmail.com**
+- 📫 How to reach me **shaikh.ayeshabashir@gmail.com**
 
 - ⚡ Fun fact **I am a cat lover**
 
