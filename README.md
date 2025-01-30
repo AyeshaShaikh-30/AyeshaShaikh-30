@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshashaikh-30&show_icons=true&locale=en&layout=compact" alt="ayeshashaikh-30" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshashaikh-30&" alt="ayeshashaikh-30" /></p>
 
