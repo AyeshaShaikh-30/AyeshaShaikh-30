@@ -1,11 +1,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayesha Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+## 🌱 Currently Learning
+- **Python**
 
-- 🌱 I’m currently learning **Web Development , Java , DSA**
+## 💻 Tech Stack
+- **Languages:** Java, Python (Learning)
+- **Frontend:** React
+- **Backend:** Node.js
+- **Databases:** SQL, MongoDB
 
 - 📫 How to reach me **shaikh.ayeshabashir@gmail.com**
 
